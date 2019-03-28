@@ -1,0 +1,1 @@
+#include<stdio.h>void main(){	int arr[5] = { 10,21,32,43,54 };	int *a = arr;	*a++;//מקדם את הכתובת 	printf("1.%d\n", *a);	*++a;//מקדם את הכתובת 	printf("2.%d\n", *a);	++*a;//מקדם את הערך 	printf("3.%d\n", *a);	(*a)++;//מקדם את הערך	printf("4.%d\n", *a);}

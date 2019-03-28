@@ -1,0 +1,47 @@
+﻿  Sourc22e.c
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(13): warning C4047: '<': 'int *' differs in levels of indirection from 'int'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(13): warning C4047: '>': 'int *' differs in levels of indirection from 'int'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(15): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(17): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(25): warning C4047: '<': 'int *' differs in levels of indirection from 'int'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(25): warning C4047: '>': 'int *' differs in levels of indirection from 'int'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(27): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(15): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(24): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(27): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(45): warning C4013: 'exit' undefined; assuming extern returning int
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(39): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(58): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(76): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(94): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(112): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(130): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(148): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(166): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(184): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(205): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(205): warning C4024: 'func_insert': different types for formal and actual parameter 1
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(205): warning C4024: 'func_insert': different types for formal and actual parameter 2
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(206): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(206): warning C4024: 'func_cal': different types for formal and actual parameter 1
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(206): warning C4024: 'func_cal': different types for formal and actual parameter 2
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(215): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\אביעד\documents\visual studio 2015\projects\consoleapplication9\consoleapplication9\sourc22e.c(218): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  ConsoleApplication9.vcxproj -> C:\Users\אביעד\Documents\Visual Studio 2015\Projects\ConsoleApplication9\Debug\ConsoleApplication9.exe
+  ConsoleApplication9.vcxproj -> C:\Users\אביעד\Documents\Visual Studio 2015\Projects\ConsoleApplication9\Debug\ConsoleApplication9.pdb (Full PDB)
